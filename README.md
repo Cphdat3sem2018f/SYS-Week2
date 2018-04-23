@@ -5,7 +5,7 @@
 ### Day 2 – Extreme programming (XP)
 ### Day 3 – Continuous integration
 ### Day 4 – Test - TFD / TDD (Mocking)
-### Day 5 – Study point exercises
+
 
 ## Learning objectives
 - Be able to customize XP to your project
@@ -17,8 +17,6 @@
 -	Be able to use continuous integration
 -	Be able to use test as part of development
 
-## Exercises
-SP-Exercise Costumizing XP (link comming uP)
 
 ## Resources
 
@@ -31,7 +29,7 @@ SP-Exercise Costumizing XP (link comming uP)
 
 ### Extreme Programming (XP)
 
-#### [XP PowerPoint](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=04042374111e04c5fb5ab29a3ee4a81c7&authkey=AcfE68ezCj721RoxzUccgr0&e=656f077b027f4be68f09896227d4b050 "XP PowerPoint")
+#### [XP PowerPoint](https://efif.sharepoint.com/:p:/s/cph/Lyngby/ESNFzY7da5xNmmc0pI925BgBuKyYxdBFqp1ZuvD1GVkcBA?e=212psA)
 
 #### Kent Beck: Extreme programming explained 
 - chap 1: Risk: The basic problem - [Kent Beck Extreme Programming Explained - chap 1](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0735e7dd7d7214fcaab6d6ed574b4ea95&authkey=AeFh7ERLcDJfnknMPEluqpo&e=cc07f43b39c8422181970d59c19264c4 "Kent Beck Extreme Programming Explained - chap 1")
@@ -60,8 +58,4 @@ SP-Exercise Costumizing XP (link comming uP)
 #### [Mocking PowerPoint](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0183267ac129a4ddf85020f98b01531b4&authkey=AaonUzv0hHIDeOGXtHnaY8g&e=e99631947c9c4e6b8a59fc996125451e)
 
 #### [Mocking exercise](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0c154a9ab9c874875851fb5d165be60cd&authkey=AdzPMa5tx4BzM5qjDEI-AoM&e=f6b260b0cbf241228be337bff6b191ac)
-
-### Friday - Study Point exercise  
-#### [Study point exercise – SCRUM and XP – Friday 17](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=016c694f1b86e43d78cb36c8b05afc55e&authkey=AcQ9E-MnvwXPQOKTm33yRqA&e=da508d5abfbd4203b30b803fbc069062)
-#### [Sign up for review of SP exercise - pick TUHE or BORG](http://tinyurl.com/3semreview)
 
