@@ -2,9 +2,9 @@
 
 ## Plan
 ### Day 1 - Agile Methods
-### Day 2 – Extreme programming (XP)
-### Day 3 – Continuous integration
-### Day 4 – Test - TFD / TDD (Mocking)
+### Day 2 – Continuous integration and TFD / TDD
+### Day 3 – Extreme programming
+### Day 4 – Scrum
 
 
 ## Learning objectives
@@ -29,7 +29,7 @@
 
 ### Extreme Programming (XP)
 
-#### [XP PowerPoint](https://efif.sharepoint.com/:p:/s/cph/Lyngby/ESNFzY7da5xNmmc0pI925BgBuKyYxdBFqp1ZuvD1GVkcBA?e=212psA)
+#### XP Slides in this repository
 
 #### Kent Beck: Extreme programming explained 
 - chap 1: Risk: The basic problem - [Kent Beck Extreme Programming Explained - chap 1](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0735e7dd7d7214fcaab6d6ed574b4ea95&authkey=AeFh7ERLcDJfnknMPEluqpo&e=cc07f43b39c8422181970d59c19264c4 "Kent Beck Extreme Programming Explained - chap 1")
@@ -39,7 +39,8 @@
 #### Joshua Kerievsky: The Extreme Programming Playbook https://www.industriallogic.com/wp-content/uploads/2005/09/xpplaybook.pdf 
 #### Refactoring https://sourcemaking.com/refactoring 
 
-### Continuous Integration
+### Continuous Integration and TDD
+#### Slides in this repository
 #### Comparing Workflows https://www.atlassian.com/git/tutorials/comparing-workflows 
 #### Fowler: Continous Integration http://martinfowler.com/articles/continuousIntegration.html
 #### [Link to Jens' CI repository](https://github.com/Jegp/cphbusiness-sem3-ci) med kodeeksempel, slides og Travis-CI guide
@@ -49,14 +50,4 @@
 - chap 1: Fundamentals of testing (33 p)
 - chap 2: Testing throughout the software life cycle (20 p)
 ### Introduction to Test Driven Development (TDD) http://www.agiledata.org/essays/tdd.html 
-
-#### [TDD - TFD PowerPoint](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=001e1db6a24ee4ac0aba2548deea92223&authkey=ARe0XBMYiGVmfx174THcf6w&e=14207921b2974ae18ddff5f857d33764)
-
-#### [TTD-String Calculator exercise](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=045bfa63c16924ccc9c1a5ab41e990a4c&authkey=AWdStnfIUKQ7qTbOYOjVpWE&e=42a93b8558da40e1b57e4c85edb33dcf)
-
-#### [TDD Sting calculator exercise solution](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0540104e669fc43fd968e397eb8be5927&authkey=Aa3kTc9coKZph3dpXiIFYjU&e=e1747b2e2d654d288955fe26f0ade99a)
-
-#### [Mocking PowerPoint](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0183267ac129a4ddf85020f98b01531b4&authkey=AaonUzv0hHIDeOGXtHnaY8g&e=e99631947c9c4e6b8a59fc996125451e)
-
-#### [Mocking exercise](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0c154a9ab9c874875851fb5d165be60cd&authkey=AdzPMa5tx4BzM5qjDEI-AoM&e=f6b260b0cbf241228be337bff6b191ac)
 
