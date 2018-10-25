@@ -5,7 +5,7 @@
 ### Day 2 – Continuous integration and TFD / TDD
 ### Day 3 – Extreme programming
 ### Day 4 – Scrum
-
+### Day 5 - SP assignment reviews
 
 ## Learning objectives
 - Be able to customize XP to your project
@@ -50,4 +50,7 @@
 - chap 1: Fundamentals of testing (33 p)
 - chap 2: Testing throughout the software life cycle (20 p)
 ### Introduction to Test Driven Development (TDD) http://www.agiledata.org/essays/tdd.html 
+
+### SP assignment review
+#### [Sign up your group here](https://docs.google.com/spreadsheets/d/1cNCwwUnphRFWayoxZY0qq5Mo6M3CcJgfV4ikCL2KmRE/edit?usp=sharing) 
 
