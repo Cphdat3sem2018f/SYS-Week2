@@ -42,7 +42,7 @@
 ### Continuous Integration and TDD
 #### Slides in this repository
 #### [Link to Acceptance test format - Given - When - Then](https://www.agilealliance.org/glossary/gwt/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'given*20when*20then))~searchTerm~'~sort~false~sortDirection~'asc~page~1)
-) 
+
 #### Comparing Workflows https://www.atlassian.com/git/tutorials/comparing-workflows 
 #### Fowler: Continous Integration http://martinfowler.com/articles/continuousIntegration.html
 #### [Link to Jens' CI repository](https://github.com/Jegp/cphbusiness-sem3-ci) med kodeeksempel, slides og Travis-CI guide
